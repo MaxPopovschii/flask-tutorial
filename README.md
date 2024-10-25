@@ -60,7 +60,7 @@ The app uses an SQL database (by default, SQLite) to store:
 **Max Popovschii**  
 A DevOps engineer with experience as a full-stack developer, passionate about programming, Linux, and building efficient, scalable solutions.
 
-- GitHub: [MaxPopovschii](https://github.com/MaxPopovschii))
+- GitHub: [MaxPopovschii](https://github.com/MaxPopovschii)
 - Email: maxpopovschii@gmail.com
 
 Feel free to reach out for collaboration or questions about the project!
